@@ -1,0 +1,10 @@
+../Core/Src/modulo_semaforo.c:12:12:condicion_estado1_a_estado2	1
+../Core/Src/modulo_semaforo.c:20:12:condicion_estado2_a_estado3	1
+../Core/Src/modulo_semaforo.c:28:12:condicion_estado3_a_estado4	1
+../Core/Src/modulo_semaforo.c:36:12:condicion_estado4_a_estado1	1
+../Core/Src/modulo_semaforo.c:45:6:on_state_estado1	1
+../Core/Src/modulo_semaforo.c:56:6:on_state_estado2	1
+../Core/Src/modulo_semaforo.c:69:6:on_state_estado3	1
+../Core/Src/modulo_semaforo.c:83:6:on_state_estado4	1
+../Core/Src/modulo_semaforo.c:130:6:modulo_semaforo_init	1
+../Core/Src/modulo_semaforo.c:149:6:modulo_semaforo_update	3
